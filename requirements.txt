@@ -1,0 +1,5 @@
+quart
+python-telegram-bot
+python-dotenv
+openai
+uvicorn
